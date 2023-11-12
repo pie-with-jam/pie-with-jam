@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Dima</h1>
-<h3 align="center">A passionate OSDEV developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pie-with-jam&label=Profile%20views&color=0e75b6&style=flat" alt="pie-with-jam" /> </p>
 

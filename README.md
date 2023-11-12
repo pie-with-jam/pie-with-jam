@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AcronixOS](https://github.com/pie-with-jam/SiwentOS)
 
-- 🌱 I’m currently learning **COSMOS**
+- 🌱 I’m currently learning **Assembler**
 
 - 📫 How to reach me **mixerteka@internet.ru**
 

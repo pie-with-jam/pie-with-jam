@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on [AmericaLocker](https://github.com/pie-with-jam/AmericaLocker)  
   
 
-- 🌱 I’m currently learning Git  
-  
-
 - ❓ Ask me about anything related to development and programming  
   
 
